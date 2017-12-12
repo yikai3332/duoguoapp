@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.dgplayer.com/app/duoguo.ipa</string>
+					<string>http://103.24.176.10:8080/dc/duoguo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://app.dgplayer.com/app/57x57.png</string>
+					<string>http://aps.dcsj666.com/app/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://app.dgplayer.com/app/512x512.png</string>
+					<string>http://aps.dcsj666.com/app/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.supermall.chess</string>
+				<string>com.taolee.varied</string>
 				<key>bundle-version</key>
 				<string>1.03</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>多國娛樂</string>
+				<string>多多競技</string>
 			</dict>
 		</dict>
 	</array>
